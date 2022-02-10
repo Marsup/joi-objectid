@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/@marsup%2Fjoi-objectid.svg)](http://badge.fury.io/js/hapi-mongodb)
-[![Build Status](https://github.com/Marsup/joi-objectid/actions/workflows/ci.yml/badge.svg)](https://github.com/Marsup/joi-objectid/actions?query=workflow%3Aci)
+[![npm version](https://badge.fury.io/js/@marsup%2Fjoi-objectid.svg)](http://badge.fury.io/js/@marsup%2Fjoi-objectid)
+[![Build Status](https://github.com/Marsup/joi-objectid/actions/workflows/main.yaml/badge.svg)](https://github.com/Marsup/joi-objectid/actions?query=workflow%3Amain)
 
 # @marsup/joi-objectid
 
