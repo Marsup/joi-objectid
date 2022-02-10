@@ -1,0 +1,28 @@
+{
+  "name": "@marsup/joi-objectid",
+  "version": "1.0.0",
+  "description": "A joi extension to validate MongoDB's ObjectIDs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Marsup/joi-objectid.git"
+  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "lab -M 5000 -t 100 -a @hapi/code -L"
+  },
+  "dependencies": {
+    "bson": "^4.6.1"
+  },
+  "devDependencies": {
+    "@hapi/code": "^8.0.7",
+    "@hapi/lab": "^24.5.1",
+    "joi": "^17.6.0"
+  },
+  "peerDependencies": {
+    "joi": "^17.6.0"
+  },
+  "keywords": ["joi", "extension", "objectid"],
+  "author": "Nicolas Morel",
+  "license": "MIT"
+}
