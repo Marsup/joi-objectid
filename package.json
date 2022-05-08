@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@hapi/code": "^9.0.0",
-    "@hapi/lab": "^25.0.0",
+    "@hapi/lab": "^25.0.1",
     "joi": "^17.6.0"
   },
   "peerDependencies": {
