@@ -15,7 +15,7 @@
     "bson": "^4.6.5"
   },
   "devDependencies": {
-    "@hapi/code": "^9.0.1",
+    "@hapi/code": "^9.0.2",
     "@hapi/lab": "^25.0.1",
     "joi": "^17.7.0"
   },
