@@ -17,10 +17,10 @@
   "devDependencies": {
     "@hapi/code": "^9.0.2",
     "@hapi/lab": "^25.1.0",
-    "joi": "^17.7.0"
+    "joi": "^17.7.1"
   },
   "peerDependencies": {
-    "joi": "^17.7.0"
+    "joi": "^17.7.1"
   },
   "keywords": ["joi", "extension", "objectid"],
   "author": "Nicolas Morel",
