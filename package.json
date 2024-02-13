@@ -7,7 +7,7 @@
     "url": "git://github.com/Marsup/joi-objectid.git"
   },
   "engines": {
-    "node": ">= 18"
+    "node": ">= 18.19.0"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
