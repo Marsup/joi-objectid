@@ -1,6 +1,6 @@
 {
   "name": "@marsup/joi-objectid",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A joi extension to validate MongoDB's ObjectIDs",
   "repository": {
     "type": "git",
@@ -25,7 +25,11 @@
   "peerDependencies": {
     "joi": ">= 17.12.1"
   },
-  "keywords": ["joi", "extension", "objectid"],
+  "keywords": [
+    "joi",
+    "extension",
+    "objectid"
+  ],
   "author": "Nicolas Morel",
   "license": "MIT"
 }
