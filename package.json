@@ -15,7 +15,7 @@
     "test": "lab -M 5000 -t 100 -a @hapi/code -L"
   },
   "dependencies": {
-    "bson": "^6.10.0"
+    "bson": "^6.10.2"
   },
   "devDependencies": {
     "@hapi/code": "^9.0.3",
