@@ -19,11 +19,11 @@
   },
   "devDependencies": {
     "@hapi/code": "^9.0.3",
-    "@hapi/lab": "^25.3.2",
+    "@hapi/lab": "^26.0.0",
     "joi": "^18.0.1"
   },
   "peerDependencies": {
-    "joi": ">= 17.13.3"
+    "joi": ">= 18.0.1"
   },
   "keywords": [
     "joi",
